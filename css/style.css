@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+.cd__main{
+   
+}
+
+.counter-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 30px 50px;
+}
+
+.counter {
+  margin-top: 10px;
+}
+
+@media (max-width: 580px) {
+  body {
+    flex-direction: column;
+  }
+}
+.set4 .row.flex-lg-nowrap.flex-sm-wrap {
+    gap: 53px;
+}
+.set5 .container {
+    margin-top: -107px;
+}
+.set9 a.py-2 {
+    text-decoration: none;
+    color: black;
+}
+.set3 h6.fs-16.text-uppercase.mb-3 {
+    padding-top: 195px;
+	color:#f1447a;
+}
+
